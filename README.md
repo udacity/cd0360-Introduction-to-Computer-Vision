@@ -1,4 +1,4 @@
-# Introduction to Computer Vision, Exercises
+# cd0360 Introduction to Computer Vision, Exercises
 
 This repository contains code exercises and materials for Udacity's Introduction to Computer Vision program. It consists of tutorial notebooks that demonstrate, or challenge you to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, we suggest that you create a local environment with these dependencies by following the instructions below.
 
